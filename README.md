@@ -34,7 +34,7 @@ Edu_mentor/
 
 1. Clone the repository:
 
-git clone 
+git clone https://github.com/Sifatfarida-786/Edu_mentor.git
 
 2. Navigate to the project folder:
 
@@ -45,7 +45,7 @@ cd Edu_mentor/Edu_mentor
 Author
 
 👩‍💻 Sifat Farida
-GitHub:
+GitHub:https://github.com/Sifatfarida-786
 
 
 ---
